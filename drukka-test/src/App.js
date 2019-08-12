@@ -1,10 +1,14 @@
 import React from 'react';
 import './App.css';
 import MyNavbar from './navbar/MyNavbar';
+import GetStarted from "./get-started/GetStarted";
 
 function App() {
   return (
-      <MyNavbar />
+      <div>
+          <MyNavbar />
+          <GetStarted />
+      </div>
   );
 }
 

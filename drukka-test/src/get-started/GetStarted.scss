@@ -1,0 +1,46 @@
+.hero-area{
+    background-image: url("../assets/architecture-bg.png");
+    height: 69vh;
+
+    .hero-content{
+        padding-top: 69px;
+    }
+
+    button{
+        color: #FFFFFF !important;
+        background-color: #C68F56 !important;
+        border-color: #C68F56 !important;
+    }
+
+    .help{
+        font-family: 'Montserrat', sans-serif;
+        font-weight: lighter;
+        font-size: 30px;
+        color: #F1D2BF;
+        letter-spacing: 2px;
+    }
+
+    .lorem{
+        font-family: Montserrat;
+        color: #FFFFFF;
+        font-size: 15px;
+    }
+
+    .ios{
+        height: 136px;
+        width: 240px;
+        margin-left: -35px;
+    }
+
+    .android{
+        height: 45px;
+        width: 150px;
+    }
+
+    .mobiles{
+        img{
+            height: 436px;
+            width: 585px;
+        }
+    }
+}

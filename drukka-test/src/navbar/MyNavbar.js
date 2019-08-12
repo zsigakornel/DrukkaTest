@@ -19,7 +19,7 @@ class MyNavbar extends React.Component{
                   <Nav.Link href="#available-for">AVAILABLE FOR</Nav.Link>
                   <Nav.Link href="#for-hotels">FOR HOTELS</Nav.Link>
                 </Nav>
-                  <Button variant="warning" className="login">LOGIN</Button>
+                  <Button variant="warning" className="login">LOG IN</Button>
                   <Button variant="outline-warning" className="sign-up">SIGN UP</Button>
                 </Container>
               </Navbar>
