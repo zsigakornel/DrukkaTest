@@ -11,10 +11,10 @@ class MyNavbar extends React.Component{
             <Container>
                 <Navbar.Brand href="#home"><img src={logo} alt=""/></Navbar.Brand>
                 <Nav className="mr-auto">
-                  <Nav.Link href="#about">ABOUT THE APP</Nav.Link>
-                  <Nav.Link href="#for-customers">FOR CUSTOMERS</Nav.Link>
-                  <Nav.Link href="#available-for">AVAILABLE FOR</Nav.Link>
-                  <Nav.Link href="#for-hotels">FOR HOTELS</Nav.Link>
+                  <Nav.Link href="">ABOUT THE APP</Nav.Link>
+                  <Nav.Link href="">FOR CUSTOMERS</Nav.Link>
+                  <Nav.Link href="">AVAILABLE FOR</Nav.Link>
+                  <Nav.Link href="">FOR HOTELS</Nav.Link>
                 </Nav>
                   <Button variant="warning" className="login">LOG IN</Button>
                   <Button variant="outline-warning" className="sign-up">SIGN UP</Button>

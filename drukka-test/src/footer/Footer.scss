@@ -1,0 +1,30 @@
+.footer-content{
+    background-color: #323D47;
+    display: flex;
+    align-items: center;
+}
+
+.center{
+    display: flex;
+    justify-content: center;
+}
+
+.right{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    margin-right: -200px;
+}
+
+.left{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    margin-left: -200px;
+}
+
+.line{
+    width:2px;
+    height: 180px;
+    background-color: #CACCCC;
+}
