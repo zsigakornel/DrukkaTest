@@ -1,0 +1,27 @@
+.navbar {
+    background-color: #323D47 !important;
+
+    .nav-link {
+        color: #FFFFFF !important;
+        font-size: 20px;
+        font-family: Playfair Display;
+        font-weight: 200;
+    }
+
+    button{
+        font-family: Montserrat;
+        font-weight: lighter;
+    }
+
+    .login{
+        color: #FFFFFF !important;
+        background-color: #C68F56 !important;
+        border-color: #C68F56 !important;
+        margin-right: 60px;
+    }
+
+    .sign-up{
+        color: #FFFFFF !important;
+        border-color: #C68F56 !important;
+    }
+}
