@@ -1,0 +1,25 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.center-icon{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+    height: 15%;
+}
+
+.bottom-left{
+    position: absolute;
+    bottom: 25px;
+    left: -20px;
+}
+
+.bottom-right{
+    position: absolute;
+    bottom: 25px;
+    right: -60px;
+}
