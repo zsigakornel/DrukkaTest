@@ -3,6 +3,7 @@ import './App.css';
 import MyNavbar from './navbar/MyNavbar';
 import GetStarted from "./get-started/GetStarted";
 import About from "./about/About";
+import ForCustomers from "./for-customers/ForCustomers";
 
 function App() {
   return (
@@ -10,6 +11,7 @@ function App() {
           <MyNavbar />
           <GetStarted />
           <About />
+          <ForCustomers />
       </div>
   );
 }
