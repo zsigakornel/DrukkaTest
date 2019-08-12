@@ -6,6 +6,7 @@ import About from "./about/About";
 import ForCustomers from "./for-customers/ForCustomers";
 import Available from "./available/Available";
 import ForHotels from "./for-hotels/ForHotels";
+import Contact from "./contact/Contact";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <ForCustomers />
           <Available />
           <ForHotels />
+          <Contact />
       </div>
   );
 }

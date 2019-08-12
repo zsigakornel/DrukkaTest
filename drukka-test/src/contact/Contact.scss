@@ -1,0 +1,23 @@
+.contact-area{
+    display: flex;
+    background-color: #1C2228;
+    padding-top: 50px;
+    padding-left: 200px;
+}
+
+.contact-us{
+    text-align: center !important;
+    button{
+        color: #FFFFFF !important;
+        background-color: #C68F56 !important;
+        border-color: #C68F56 !important;
+        margin-top: 20px;
+    }
+}
+
+.info{
+    margin-top: 100px;
+    p{
+        text-align: justify;
+    }
+}

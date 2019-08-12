@@ -4,9 +4,6 @@ import logo from '../assets/logo.svg';
 import { Container, Navbar,  Button, Nav } from 'react-bootstrap';
 
 class MyNavbar extends React.Component{
-    constructor(){
-        super();
-    }
 
     render(){
         return (
