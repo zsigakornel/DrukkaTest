@@ -1,8 +1,8 @@
 .contact-area{
     display: flex;
     background-color: #1C2228;
-    padding-top: 50px;
-    padding-left: 200px;
+
+    padding: 50px 0 50px 200px;
 }
 
 .contact-us{
@@ -12,6 +12,7 @@
         background-color: #C68F56 !important;
         border-color: #C68F56 !important;
         margin-top: 20px;
+        width: 150px;
     }
 }
 
