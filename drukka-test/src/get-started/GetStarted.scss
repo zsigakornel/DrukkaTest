@@ -21,7 +21,7 @@
     }
 
     .lorem{
-        font-family: Montserrat;
+        font-family: 'Montserrat', sans-serif;
         color: #FFFFFF;
         font-size: 15px;
     }
@@ -30,11 +30,13 @@
         height: 136px;
         width: 240px;
         margin-left: -35px;
+        cursor: pointer;
     }
 
     .android{
         height: 45px;
         width: 150px;
+        cursor: pointer;    
     }
 
     .mobiles{
